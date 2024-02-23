@@ -1,0 +1,60 @@
+{
+    "title": "Introduction to HTML and CSS",
+    "content": "<p>HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) are the foundation of web development. HTML provides the structure and content of a webpage, while CSS is used to style and format the HTML elements.</p>",
+    "quiz": [
+        {
+            "question": "What does HTML stand for?",
+            "options": [
+                {
+                    "text": "Hyperlinks and Text Markup Language",
+                    "value": "a"
+                },
+                {
+                    "text": "Hypertext Markup Language",
+                    "value": "b"
+                },
+                {
+                    "text": "Home Tool Markup Language",
+                    "value": "c"
+                }
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "What is the main tag used for defining a heading in HTML?",
+            "options": [
+                {
+                    "text": "head",
+                    "value": "a"
+                },
+                {
+                    "text": "heading",
+                    "value": "b"
+                },
+                {
+                    "text": "h1",
+                    "value": "c"
+                }
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Which tag is used for adding styles to an HTML document?",
+            "options": [
+                {
+                    "text": "style",
+                    "value": "a"
+                },
+                {
+                    "text": "css",
+                    "value": "b"
+                },
+                {
+                    "text": "script",
+                    "value": "c"
+                }
+            ],
+            "answer": "a"
+        }
+    ]
+}
